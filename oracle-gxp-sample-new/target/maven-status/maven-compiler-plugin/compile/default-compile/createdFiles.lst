@@ -1,0 +1,6 @@
+com\example\oraclegxpsamplenew\repository\EmployeeRepository.class
+com\example\oraclegxpsamplenew\controller\EmployeeController.class
+com\example\oraclegxpsamplenew\model\Employee.class
+com\example\oraclegxpsamplenew\ServletInitializer.class
+com\example\oraclegxpsamplenew\service\EmployeeService.class
+com\example\oraclegxpsamplenew\OracleGxpSampleNewApplication.class
